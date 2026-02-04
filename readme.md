@@ -1,6 +1,6 @@
 # 🔬 Pesquisa FoL Universal: Compressão e Armazenamento Otimizado
 
-Este repositório contém a implementação e validação experimental do algoritmo **Floor of Log (FoL)**, baseado na tese de Peixoto (2023). O projeto expande a aplicação original (focada em imagens médicas LUNA16) para uma **arquitetura universal**, capaz de processar diferentes tipos de dados (Imagens, CSVs) em um fluxo de nuvem simulado.
+Este repositório contém a implementação e validação experimental do algoritmo **Floor of Log (FoL)**, baseado na tese de Peixoto (2023). O projeto expande a aplicação original (focada em imagens médicas LUNA16) para uma **arquitetura universal**, capaz de processar diferentes tipos de imgens em um fluxo de nuvem simulado.
 
 O objetivo é validar a redução de entropia e economia de armazenamento para cenários de **IoT e Telemedicina** usando Object Storage (MinIO/S3).
 
