@@ -1,0 +1,7 @@
+numpy
+minio
+simpleitk
+scikit-image
+pandas
+pillow
+matplotlib
